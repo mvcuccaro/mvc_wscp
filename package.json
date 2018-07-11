@@ -19,6 +19,7 @@
     "express": "^4.16.3",
     "express-xml-bodyparser": "^0.3.0",
     "http-proxy": "^1.17.0",
+    "joi": "github:mvcuccaro/joi#7367473d2ce36f7d02009e7def80e10930ea7a1e",
     "json-stringify-safe": "^5.0.1",
     "lodash": "^4.17.10",
     "minimist": "^1.2.0",
