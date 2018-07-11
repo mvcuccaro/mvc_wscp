@@ -6,7 +6,7 @@ A simple module to cache/log an incoming web service request to a redis db befor
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Command Line Options](#command&20line%20options)
+- [Command Line Options](#command+line+options)
 
 ## Installation
 
